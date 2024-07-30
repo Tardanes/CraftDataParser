@@ -1,0 +1,3133 @@
+{
+  "fp45": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "ModItems.lithium": 3
+    }
+  },
+  "colt": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "ModItems.lithium": 5
+    }
+  },
+  "cm1903": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "m1917": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "swm10": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "hiStandard": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "thompsonM1928": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 18,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "thompsonM1A1": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 17,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "reising": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 17,
+      "Blocks.field_150344_f": 5
+    }
+  },
+  "m2hyde": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 17,
+      "Blocks.field_150344_f": 5
+    }
+  },
+  "greasegun": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 10,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "springfield": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "springfieldA1": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "springfieldA4": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 9,
+      "Blocks.field_150344_f": 6,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "garand": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "m1carbine": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 6,
+      "Blocks.field_150344_f": 5
+    }
+  },
+  "m2carbine": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 6,
+      "Blocks.field_150344_f": 5
+    }
+  },
+  "bar": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 26,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "monitor": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 26,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "trenchgun": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 22,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "garandt20": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 9,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "garandt20E2": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 9,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "garandt20E2S": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 10,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "m1917Browning": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 50,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "m1919a4": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 42
+    }
+  },
+  "m1919a6": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 40,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "m2Browning": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 50
+    }
+  },
+  "boysAT": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 30,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "bazookaA1": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 24,
+      "Blocks.field_150344_f": 2
+    }
+  },
+  "m2flame": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 18,
+      "Items.field_151044_h": 30
+    }
+  },
+  "m2flame": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151044_h": 30
+    }
+  },
+  "coltMag": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "acp45": 7
+    }
+  },
+  "chMag": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "acp32": 8
+    }
+  },
+  "revClip": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "acp45": 6
+    }
+  },
+  "spClip": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "sp38": 6
+    }
+  },
+  "hsMag": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "lr22": 10
+    }
+  },
+  "reiMag": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "acp45": 20
+    }
+  },
+  "t20Mag": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "acp45": 20
+    }
+  },
+  "t30Mag": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "acp45": 30
+    }
+  },
+  "t50Drum": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 3,
+      "acp45": 50
+    }
+  },
+  "t100Drum": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "acp45": 100
+    }
+  },
+  "m3Mag": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "acp45": 30
+    }
+  },
+  "sClip": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "sBullet": 5
+    }
+  },
+  "gClip": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "sBullet": 8
+    }
+  },
+  "m1Mag": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "cb30": 15
+    }
+  },
+  "m2Mag": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "cb30": 30
+    }
+  },
+  "barMag": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "sBullet": 20
+    }
+  },
+  "browningBelt": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 12,
+      "sBullet": 250
+    }
+  },
+  "boyMag": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "boys55": 5
+    }
+  },
+  "krClip": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "krBullet": 5
+    }
+  },
+  "acp45": {
+    "resultAmount": 15,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "sp38": {
+    "resultAmount": 17,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "lr22": {
+    "resultAmount": 25,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "sBullet": {
+    "resultAmount": 10,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 1
+    }
+  },
+  "acp45": {
+    "resultAmount": 15,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "cb30": {
+    "resultAmount": 12,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "trShell": {
+    "resultAmount": 6,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 1
+    }
+  },
+  "boys55": {
+    "resultAmount": 6,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "krBullet": {
+    "resultAmount": 10,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "m6a1Rocket": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Items.field_151016_H": 2
+    }
+  },
+  "m6a3Rocket": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Items.field_151016_H": 2
+    }
+  },
+  "tgrip": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Blocks.field_150344_f": 2
+    }
+  },
+  "cutts": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2
+    }
+  },
+  "unertlScope": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "weaverScope": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "m84scope": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "m1convert": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 3
+    }
+  },
+  "m1para": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "barbipod": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 4
+    }
+  },
+  "barhandle": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "knifeUS3": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "sprinBayo": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 3
+    }
+  },
+  "garaBayo": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 3
+    }
+  },
+  "garaBayo1": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2
+    }
+  },
+  "trenBayo": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 3
+    }
+  },
+  "etool": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 4
+    }
+  },
+  "fragGrenade": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Items.field_151016_H": 1
+    }
+  },
+  "m18Smoke": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Items.field_151102_aT": 1
+    }
+  },
+  "binocsUS": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "usMHelm": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "usHelm": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "usShirt": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "usLShirt": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "usPants": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Blocks.field_150325_L": 3
+    }
+  },
+  "usBoots": {
+    "resultAmount": 1,
+    "country": "US",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "hiPower": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "luger": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "walp38": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "c96": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "m712": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "ppk": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "mp38": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 13
+    }
+  },
+  "mp40": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 14
+    }
+  },
+  "mp41": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 13,
+      "Blocks.field_150344_f": 2
+    }
+  },
+  "kar98": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "kar98b": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "kar98c": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 6,
+      "Blocks.field_150344_f": 5
+    }
+  },
+  "c96Carbine": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "gewehr41": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "gewehr43": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "sturmgewehr": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 16,
+      "Blocks.field_150344_f": 5
+    }
+  },
+  "mkb42": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 16,
+      "Blocks.field_150344_f": 5
+    }
+  },
+  "fg42": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 26,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "mg34": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 32,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "mg42": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 32,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "panzershreck": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 25
+    }
+  },
+  "panzerfaust": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Items.field_151016_H": 2
+    }
+  },
+  "flammenwerfer": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 18,
+      "Items.field_151044_h": 26
+    }
+  },
+  "cyanide": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+    }
+  },
+  "hpMag": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "mm9": 13
+    }
+  },
+  "lugMag": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "mm9": 8
+    }
+  },
+  "p38Mag": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "mm9": 8
+    }
+  },
+  "c96Clip": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "ma30": 10
+    }
+  },
+  "c96Mag10": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "ma30": 40
+    }
+  },
+  "c96Mag": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "ma30": 20
+    }
+  },
+  "c96Mag40": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "ma30": 40
+    }
+  },
+  "ppkMag": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "acp32": 8
+    }
+  },
+  "mp40Mag": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "mm9": 32
+    }
+  },
+  "kClip": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "kBullet": 5
+    }
+  },
+  "gewMag": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "kBullet": 10
+    }
+  },
+  "sturmMag": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "mm33": 8
+    }
+  },
+  "fgMag": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "kBullet": 20
+    }
+  },
+  "mg42Drum": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "kBullet": 50
+    }
+  },
+  "mg42Belt": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 12,
+      "kBullet": 250
+    }
+  },
+  "mm9": {
+    "resultAmount": 15,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "ma30": {
+    "resultAmount": 15,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "acp32": {
+    "resultAmount": 17,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "kBullet": {
+    "resultAmount": 10,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 1
+    }
+  },
+  "mm33": {
+    "resultAmount": 12,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "mmR74": {
+    "resultAmount": 8,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "c96stock": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Blocks.field_150344_f": 2
+    }
+  },
+  "sighthood": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "zf41Scope": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "zf42Scope": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "zf4Scope": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "hub23": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "knifeBoot": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "karaBayo": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 2
+    }
+  },
+  "getool": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 4
+    }
+  },
+  "stielGrenade": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 1
+    }
+  },
+  "nebelGrenade": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151102_aT": 1
+    }
+  },
+  "binocsUS": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "germanMHelm": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "germanHelm": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "germanShirt": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "germanPants": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Blocks.field_150325_L": 3
+    }
+  },
+  "germanBoots": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Blocks.field_150325_L": 2
+    }
+  },
+  "germanLShirt": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "germanLPants": {
+    "resultAmount": 1,
+    "country": "Germany",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "type14": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "type14a": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "type100": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 15,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "type10044": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 14,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "tokyoM1927": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 18,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "arisaka38": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 9,
+      "Blocks.field_150344_f": 8
+    }
+  },
+  "arisaka38Cav": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "arisaka99": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "arisaka99Long": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "type4": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "arisaka38Carbine": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "arisaka44": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 6,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "type96": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 26,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "type99": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 26,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "type14Mag": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "namB": 8
+    }
+  },
+  "type100Mag": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "namB": 30
+    }
+  },
+  "toMag": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "namB": 30
+    }
+  },
+  "toDrum": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "namB": 63
+    }
+  },
+  "ari50Clip": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "ari50Bullet": 5
+    }
+  },
+  "ari58Clip": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "ari58Bullet": 5
+    }
+  },
+  "type96Mag": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "ari50Bullet": 30
+    }
+  },
+  "type99Mag": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "ari58Bullet": 30
+    }
+  },
+  "namB": {
+    "resultAmount": 17,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "ari50Bullet": {
+    "resultAmount": 10,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 1
+    }
+  },
+  "ari58Bullet": {
+    "resultAmount": 10,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 1
+    }
+  },
+  "ari4x": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "tperiscope": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "monopod": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "t100bipod": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "fragGrenade": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Items.field_151016_H": 1
+    }
+  },
+  "binocsUS": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "jaHelm": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "jaShirt": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "jaPants": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "jaBoots": {
+    "resultAmount": 1,
+    "country": "Japan",
+    "requirements": {
+      "Blocks.field_150325_L": 2
+    }
+  },
+  "webley": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "enfieldRev": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "welrod": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 4
+    }
+  },
+  "sten": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 15
+    }
+  },
+  "enfield4": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "bren": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 26,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "lifebuoy": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 15,
+      "Items.field_151044_h": 40
+    }
+  },
+  "webClip": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "web455": 6
+    }
+  },
+  "enfieldClip": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "rev38": 6
+    }
+  },
+  "wellMag": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "mm9": 6
+    }
+  },
+  "stenMag": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "mm9": 30
+    }
+  },
+  "clip303": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "brit303": 5
+    }
+  },
+  "brenMag": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "brit303": 30
+    }
+  },
+  "web455": {
+    "resultAmount": 10,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "rev38": {
+    "resultAmount": 10,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "brit303": {
+    "resultAmount": 10,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 2
+    }
+  },
+  "stenSupp": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "leeScope": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "leeBayo": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "millBomb": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Items.field_151016_H": 1
+    }
+  },
+  "binocsUS": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "britHelm": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151042_j": 5
+    }
+  },
+  "britShirt": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151116_aA": 8
+    }
+  },
+  "britPants": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151116_aA": 7
+    }
+  },
+  "britBoots": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151116_aA": 4
+    }
+  },
+  "canHelm": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151116_aA": 5
+    }
+  },
+  "canShirt": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151116_aA": 8
+    }
+  },
+  "canPants": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151116_aA": 7
+    }
+  },
+  "canBoots": {
+    "resultAmount": 1,
+    "country": "UK",
+    "requirements": {
+      "Items.field_151116_aA": 4
+    }
+  },
+  "nagant": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 3,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "tt33": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 4
+    }
+  },
+  "ppsh": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 6,
+      "Blocks.field_150344_f": 2
+    }
+  },
+  "ppd40": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 6,
+      "Blocks.field_150344_f": 2
+    }
+  },
+  "mosin": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "mosinLong": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "mosinM38": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 5
+    }
+  },
+  "mosinM44": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Blocks.field_150344_f": 5
+    }
+  },
+  "mosinPU": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Blocks.field_150344_f": 7,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "svt38": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 6,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "svt40": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 6,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "svt40k": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "dp28": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 15,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "dpm": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 15,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "izh43": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "tt33Mag": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "tokB": 8
+    }
+  },
+  "ppshMag": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "tokB": 35
+    }
+  },
+  "ppshDrum": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "tokB": 71
+    }
+  },
+  "mClip": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "mosB": 5
+    }
+  },
+  "svtMag": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "mosB": 10
+    }
+  },
+  "dp28Drum": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "mosB": 47
+    }
+  },
+  "tokB": {
+    "resultAmount": 10,
+    "country": "USSR",
+    "requirements": {
+    }
+  },
+  "mosB": {
+    "resultAmount": 10,
+    "country": "USSR",
+    "requirements": {
+    }
+  },
+  "trShell": {
+    "resultAmount": 10,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151016_H": 1
+    }
+  },
+  "mosBayo": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "mosCBayo": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "puScope": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Blocks.field_150410_aZ": 1
+    }
+  },
+  "binocsUS": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Blocks.field_150410_aZ": 1
+    }
+  },
+  "ruHelm": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "ushanka": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Blocks.field_150325_L": 1
+    }
+  },
+  "ruShirt": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "ruPants": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Blocks.field_150325_L": 3
+    }
+  },
+  "ruBoots": {
+    "resultAmount": 1,
+    "country": "USSR",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "l35": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 5
+    }
+  },
+  "drupal8": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "m27": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "m27rv": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "m39": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "suomi": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 12,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "suomitrench": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 13,
+      "Blocks.field_150344_f": 2
+    }
+  },
+  "lahti": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 24,
+      "Blocks.field_150344_f": 2
+    }
+  },
+  "l35Mag": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "mm9": 8
+    }
+  },
+  "suomiMag": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "mm9": 35
+    }
+  },
+  "suomiMag": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "mm9": 50
+    }
+  },
+  "suomiDrum": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "mm9": 71
+    }
+  },
+  "mClip": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "mosB": 5
+    }
+  },
+  "krClip": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "krBullet": 5
+    }
+  },
+  "lahtiMag": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "mosB": 20
+    }
+  },
+  "tokB": {
+    "resultAmount": 10,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "mosB": {
+    "resultAmount": 10,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 2
+    }
+  },
+  "krBullet": {
+    "resultAmount": 10,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 2
+    }
+  },
+  "binocsUS": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "finHelm": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "finShirt": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "finPants": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Blocks.field_150325_L": 3
+    }
+  },
+  "finBoots": {
+    "resultAmount": 1,
+    "country": "Finland",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "vis": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 5
+    }
+  },
+  "ruby": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "wz29": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "wz29c": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "wz98a": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "karabinek269": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "karabinek26": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "kbsp": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 12,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "wz28": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 26,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "visMag": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "mm9": 8
+    }
+  },
+  "ruMag": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "mm9": 8
+    }
+  },
+  "kClip": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "kBullet": 5
+    }
+  },
+  "barMag": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "sBullet": 20
+    }
+  },
+  "mm9": {
+    "resultAmount": 10,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "kBullet": {
+    "resultAmount": 10,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 2
+    }
+  },
+  "binocsUS": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "poHelm": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "poShirt": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "poPants": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Blocks.field_150325_L": 3
+    }
+  },
+  "poBoots": {
+    "resultAmount": 1,
+    "country": "Poland",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "colt": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "krag": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "kragcar": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "kragcarb": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "ag42": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 11,
+      "Blocks.field_150344_f": 6
+    }
+  },
+  "madsen": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 26,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "coltMag": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "acp45": 7
+    }
+  },
+  "krClip": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "krBullet": 5
+    }
+  },
+  "madsen30": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "krBullet": 30
+    }
+  },
+  "acp45": {
+    "resultAmount": 10,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "krBullet": {
+    "resultAmount": 10,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 2
+    }
+  },
+  "binocsUS": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "noHelm": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "noShirt": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "noPants": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Blocks.field_150325_L": 3
+    }
+  },
+  "noBoots": {
+    "resultAmount": 1,
+    "country": "Norway",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "beretta34": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "vz24": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "mp28": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 12,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "zb26": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 26,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "zb30": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 26,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "b34Mag": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "sp38": 7
+    }
+  },
+  "mp40Mag": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "mm9": 30
+    }
+  },
+  "kClip": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "kBullet": 5
+    }
+  },
+  "zbMag": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "kBullet": 20
+    }
+  },
+  "sp38": {
+    "resultAmount": 10,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "mm9": {
+    "resultAmount": 10,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "kBullet": {
+    "resultAmount": 10,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 2
+    }
+  },
+  "binocsUS": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "roHelm": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "roShirt": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "roPants": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Blocks.field_150325_L": 3
+    }
+  },
+  "roBoots": {
+    "resultAmount": 1,
+    "country": "Romania",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "volkspistole": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "gewehr98": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "vg1": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 8,
+      "Blocks.field_150344_f": 7
+    }
+  },
+  "vk98": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 7,
+      "Blocks.field_150344_f": 4
+    }
+  },
+  "mp3008": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 10
+    }
+  },
+  "einstoss": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 3,
+      "Items.field_151044_h": 2
+    }
+  },
+  "panzerfaust": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 5,
+      "Items.field_151016_H": 2
+    }
+  },
+  "p38Mag": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "mm9": 7
+    }
+  },
+  "mp40Mag": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "mm9": 30
+    }
+  },
+  "kClip": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "kBullet": 5
+    }
+  },
+  "gewMag": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "kBullet": 10
+    }
+  },
+  "mm9": {
+    "resultAmount": 10,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "kBullet": {
+    "resultAmount": 10,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151016_H": 2
+    }
+  },
+  "binocsUS": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "fedora": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "fedoraB2": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "fedoraGray": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "fedoraBlack": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "fedoraTan": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "vsM44Shirt": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsM44Pants": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsShirt": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsShirtG": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsJ1": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsJ1Gray": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsJ1DGray": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsJ1Black": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsJ2": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsJ2Gray": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsJ2DGray": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsJ2Black": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 4
+    }
+  },
+  "vsPants": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 3
+    }
+  },
+  "vsPantsGray": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 3
+    }
+  },
+  "vsPantsDarkGray": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 3
+    }
+  },
+  "vsPantsBlack": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Blocks.field_150325_L": 3
+    }
+  },
+  "germanBoots": {
+    "resultAmount": 1,
+    "country": "Volkssturm",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "obregon": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151055_y": 2
+    }
+  },
+  "swm10": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Items.field_151055_y": 2
+    }
+  },
+  "vz24": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "gewehr98": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 4,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "mendoza": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 16,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "madsen": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 18,
+      "Blocks.field_150344_f": 3
+    }
+  },
+  "m1919a4": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 30
+    }
+  },
+  "kClip": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "kBullet": 5
+    }
+  },
+  "coltMag": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "acp45": 7
+    }
+  },
+  "zbMag": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "kBullet": 20
+    }
+  },
+  "madsen30": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "kBullet": 30
+    }
+  },
+  "tgrip": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "cutts": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "c96stock": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "m1convert": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 2
+    }
+  },
+  "svtconvert": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 2
+    }
+  },
+  "goluchScope": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "acp45": {
+    "resultAmount": 15,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "sp38": {
+    "resultAmount": 17,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "kBullet": {
+    "resultAmount": 10,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "browningBelt": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 6,
+      "sBullet": 250
+    }
+  },
+  "binocsUS": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 2,
+      "Blocks.field_150410_aZ": 2
+    }
+  },
+  "finHelm": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "ruShirt": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Blocks.field_150325_L": 2
+    }
+  },
+  "ruPants": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Blocks.field_150325_L": 1
+    }
+  },
+  "finBoots": {
+    "resultAmount": 1,
+    "country": "Mexico",
+    "requirements": {
+      "Items.field_151116_aA": 1
+    }
+  },
+  "parachute": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Blocks.field_150325_L": 4,
+      "Items.field_151007_F": 2
+    }
+  },
+  "rag": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Blocks.field_150325_L": 1
+    }
+  },
+  "bandage": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "rag": 2
+    }
+  },
+  "morphine": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+    }
+  },
+  "cure": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151071_bq": 1
+    }
+  },
+  "(crate)": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Blocks.field_150344_f": 8
+    }
+  },
+  "(crate2)": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151042_j": 8
+    }
+  },
+  "barbedWire": {
+    "resultAmount": 10,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151042_j": 1
+    }
+  },
+  "barbedWireFence": {
+    "resultAmount": 10,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151042_j": 1,
+      "Blocks.field_150344_f": 1
+    }
+  },
+  "sandbag": {
+    "resultAmount": 10,
+    "country": "nation",
+    "requirements": {
+      "Blocks.field_150354_m": 1
+    }
+  },
+  "sandbaghf": {
+    "resultAmount": 20,
+    "country": "nation",
+    "requirements": {
+      "Blocks.field_150354_m": 1
+    }
+  },
+  "itemBunkerDoor": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151042_j": 6
+    }
+  },
+  "itemHeavyBunkerDoor": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151042_j": 10
+    }
+  },
+  "(hedgehog)": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151042_j": 4
+    }
+  },
+  "(Blocks.field_150379_bu)": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+    }
+  },
+  "biscuit": {
+    "resultAmount": 8,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151015_O": 2
+    }
+  },
+  "fruitBar": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151034_e": 1
+    }
+  },
+  "dRation": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+    }
+  },
+  "cannedVeal": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151083_be": 1
+    }
+  },
+  "cannedHamAndEggs": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151157_am": 1,
+      "Items.field_151110_aK": 2
+    }
+  },
+  "cannedLuncheon": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151157_am": 1
+    }
+  },
+  "cannedLoafSausage": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151083_be": 1
+    }
+  },
+  "cannedCheese": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+    }
+  },
+  "kRationBreakfast": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "biscuit": 8
+    }
+  },
+  "kRationDinner": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "biscuit": 8
+    }
+  },
+  "kRationSupper": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "biscuit": 8
+    }
+  },
+  "coffeePacket": {
+    "resultAmount": 3,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151121_aF": 3
+    }
+  },
+  "canteenCup": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "Items.field_151042_j": 3
+    }
+  },
+  "canteenCupCoffee": {
+    "resultAmount": 1,
+    "country": "nation",
+    "requirements": {
+      "canteenCup": 1
+    }
+  }
+}
